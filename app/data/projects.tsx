@@ -1,5 +1,21 @@
 export const projects = [
     {
+        title: "Quiz de Onboarding Wine",
+        description: "Página de perguntas de preferências do usuário com fluxo de direcionamento com base nas respostas.",
+        techStackText: "HTML,CSS,SCSS,Javascript.",
+        previewLink: "https://quiz-de-onboarding.vercel.app/",
+        repositorioLink: "https://github.com/KaioAraujoDev/Quiz-de-onboarding",
+        imgPreviewSrc: "/previews/preview-quiz-onboarding.png" 
+    },
+    {
+        title: "Página de Onboarding Wine",
+        description: "Página de apresentação da assinatura de clube da wine",
+        techStackText: "HTML,CSS,SCSS,Javascript.",
+        previewLink: "https://pagina-onboarding.vercel.app/",
+        repositorioLink: "https://github.com/KaioAraujoDev/onboarding",
+        imgPreviewSrc: "/previews/preview-pagina-onboarding.png" 
+    },
+    {
         title: "Desafio Wine",
         description: "Desafio Front end da Empresa Wine. Landing Page Responsiva com carrousels, consumo de API para exibição de Rótulos.",
         techStackText: "HTML,CSS,SCSS,Javascript.",
